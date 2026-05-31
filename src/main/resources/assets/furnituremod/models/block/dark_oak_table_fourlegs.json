@@ -1,0 +1,7 @@
+{
+  "parent": "furnituremod:block/template_models/tablemodel/tablefourlegs",
+  "textures": {
+    "1": "minecraft:block/dark_oak_planks",
+    "particle": "minecraft:block/dark_oak_planks"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "values": [
+    "furnituremod:oak_stool",
+    "furnituremod:oak_chair",
+    "furnituremod:oak_table",
+
+    "furnituremod:spruce_stool",
+    "furnituremod:spruce_chair",
+    "furnituremod:spruce_table",
+
+    "furnituremod:birch_stool",
+    "furnituremod:birch_chair",
+    "furnituremod:birch_table",
+
+    "furnituremod:jungle_stool",
+    "furnituremod:jungle_chair",
+    "furnituremod:jungle_table",
+
+    "furnituremod:acacia_stool",
+    "furnituremod:acacia_chair",
+    "furnituremod:acacia_table",
+
+    "furnituremod:dark_oak_stool",
+    "furnituremod:dark_oak_chair",
+    "furnituremod:dark_oak_table",
+
+    "furnituremod:mangrove_stool",
+    "furnituremod:mangrove_chair",
+    "furnituremod:mangrove_table",
+
+    "furnituremod:cherry_stool",
+    "furnituremod:cherry_chair",
+    "furnituremod:cherry_table",
+
+    "furnituremod:pale_oak_stool",
+    "furnituremod:pale_oak_chair",
+    "furnituremod:pale_oak_table",
+
+    "furnituremod:bamboo_stool",
+    "furnituremod:bamboo_chair",
+    "furnituremod:bamboo_table",
+
+    "furnituremod:crimson_stool",
+    "furnituremod:crimson_chair",
+    "furnituremod:crimson_table",
+
+    "furnituremod:warped_stool",
+    "furnituremod:warped_chair",
+    "furnituremod:warped_table",
+
+    "furnituremod:white_wool_sofa",
+    "furnituremod:light_gray_wool_sofa",
+    "furnituremod:gray_wool_sofa",
+    "furnituremod:black_wool_sofa",
+    "furnituremod:brown_wool_sofa",
+    "furnituremod:red_wool_sofa",
+    "furnituremod:orange_wool_sofa",
+    "furnituremod:yellow_wool_sofa",
+    "furnituremod:lime_wool_sofa",
+    "furnituremod:green_wool_sofa",
+    "furnituremod:cyan_wool_sofa",
+    "furnituremod:light_blue_wool_sofa",
+    "furnituremod:blue_wool_sofa",
+    "furnituremod:purple_wool_sofa",
+    "furnituremod:magenta_wool_sofa",
+    "furnituremod:pink_wool_sofa"
+
+
+  ]
+}

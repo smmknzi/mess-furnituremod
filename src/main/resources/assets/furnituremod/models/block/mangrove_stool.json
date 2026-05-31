@@ -1,0 +1,7 @@
+{
+  "parent": "furnituremod:block/template_models/model_stool",
+  "textures": {
+    "1": "minecraft:block/mangrove_planks",
+    "particle": "minecraft:block/mangrove_planks"
+  }
+}

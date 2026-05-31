@@ -1,0 +1,50 @@
+
+{
+  "multipart": [
+    {
+      "apply": {
+        "model": "furnituremod:block/spruce_table_top",
+        "uvlock": false
+      }
+    },
+    {
+      "when": {
+        "leg1": "true"
+      },
+      "apply": {
+        "model": "furnituremod:block/spruce_table_leg",
+        "uvlock": false
+      }
+    },
+    {
+      "when": {
+        "leg2": "true"
+      },
+      "apply": {
+        "model": "furnituremod:block/spruce_table_leg",
+        "y": 90,
+        "uvlock": false
+      }
+    },
+    {
+      "when": {
+        "leg3": "true"
+      },
+      "apply": {
+        "model": "furnituremod:block/spruce_table_leg",
+        "y": 180,
+        "uvlock": false
+      }
+    },
+    {
+      "when": {
+        "leg4": "true"
+      },
+      "apply": {
+        "model": "furnituremod:block/spruce_table_leg",
+        "y": 270,
+        "uvlock": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "furnituremod:block/template_models/tablemodel/tableleg",
+  "textures": {
+    "1": "minecraft:block/birch_planks",
+    "particle": "minecraft:block/birch_planks"
+  }
+}

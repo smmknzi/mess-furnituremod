@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "P": "#minecraft:planks",
+    "S": "minecraft:lime_wool"
+  },
+  "pattern": [
+    "S  ",
+    "SSS",
+    "P P"
+  ],
+  "result": {
+    "count": 2,
+    "id": "furnituremod:lime_wool_sofa"
+  }
+}

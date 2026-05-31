@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "P": "minecraft:spruce_slab",
+    "S": "minecraft:stick"
+  },
+  "pattern": [
+    "   ",
+    "PPP",
+    "S S"
+  ],
+  "result": {
+    "count": 2,
+    "id": "furnituremod:spruce_stool"
+  }
+}

@@ -1,0 +1,38 @@
+{
+	"schemaVersion": 1,
+	"id": "furnituremod",
+	"version": "${version}",
+	"name": "Furniture Mod",
+	"description": "A Vanilla+ Mod that adds basic and simplistic furniture to Minecraft. With additional Mod Compatiability",
+	"authors": [
+		"Mess"
+	],
+	"contact": {
+		"homepage": "",
+		"sources": ""
+	},
+	"license": "MIT-License",
+	"icon": "assets/furnituremod/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.mess.furnituremod.FurnitureMod"
+		],
+		"fabric-datagen": [
+			"net.mess.furnituremod.FurnitureModDataGenerator"
+		],
+
+      "client": [
+        "net.mess.furnituremod.FurnitureModClient"
+      ]
+    },
+	"mixins": [
+      "furnituremod.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.19.2",
+		"minecraft": "~26.1.2",
+		"java": ">=25",
+		"fabric-api": "*"
+	}
+}

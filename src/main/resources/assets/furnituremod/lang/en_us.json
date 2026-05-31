@@ -1,0 +1,69 @@
+{
+  "item.furnituremod.hammer": "Hammer",
+  "creativemodetab.furnituremod.furniture_tab": "Mess's Furniture",
+  "block.furnituremod.oak_stool": "Oak Stool",
+  "block.furnituremod.oak_table": "Oak Table",
+  "block.furnituremod.oak_chair": "Oak Chair",
+
+  "block.furnituremod.spruce_stool": "Spruce Stool",
+  "block.furnituremod.spruce_table": "Spruce Table",
+  "block.furnituremod.spruce_chair": "Spruce Chair",
+
+  "block.furnituremod.birch_stool": "Birch Stool",
+  "block.furnituremod.birch_table": "Birch Table",
+  "block.furnituremod.birch_chair": "Birch Chair",
+
+  "block.furnituremod.jungle_stool": "Jungle Stool",
+  "block.furnituremod.jungle_table": "Jungle Table",
+  "block.furnituremod.jungle_chair": "Jungle Chair",
+
+  "block.furnituremod.acacia_stool": "Acacia Stool",
+  "block.furnituremod.acacia_table": "Acacia Table",
+  "block.furnituremod.acacia_chair": "Acacia Chair",
+
+  "block.furnituremod.dark_oak_stool": "Dark Oak Stool",
+  "block.furnituremod.dark_oak_table": "Dark Oak Table",
+  "block.furnituremod.dark_oak_chair": "Dark Oak Chair",
+
+  "block.furnituremod.mangrove_stool": "Mangrove Stool",
+  "block.furnituremod.mangrove_table": "Mangrove Table",
+  "block.furnituremod.mangrove_chair": "Mangrove Chair",
+
+  "block.furnituremod.cherry_stool": "Cherry Stool",
+  "block.furnituremod.cherry_table": "Cherry Table",
+  "block.furnituremod.cherry_chair": "Cherry Chair",
+
+  "block.furnituremod.pale_oak_stool": "Pale Oak Stool",
+  "block.furnituremod.pale_oak_table": "Pale Oak Table",
+  "block.furnituremod.pale_oak_chair": "Pale Oak Chair",
+
+  "block.furnituremod.bamboo_stool": "Bamboo Stool",
+  "block.furnituremod.bamboo_table": "Bamboo Table",
+  "block.furnituremod.bamboo_chair": "Bamboo Chair",
+
+  "block.furnituremod.crimson_stool": "Crimson Stool",
+  "block.furnituremod.crimson_table": "Crimson Table",
+  "block.furnituremod.crimson_chair": "Crimson Chair",
+
+  "block.furnituremod.warped_stool": "Warped Stool",
+  "block.furnituremod.warped_table": "Warped Table",
+  "block.furnituremod.warped_chair": "Warped Chair",
+
+  "block.furnituremod.white_wool_sofa": "White Wool Sofa",
+  "block.furnituremod.light_gray_wool_sofa": "Light Gray Wool Sofa",
+  "block.furnituremod.gray_wool_sofa": "Gray Wool Sofa",
+  "block.furnituremod.black_wool_sofa": "Black Wool Sofa",
+  "block.furnituremod.brown_wool_sofa": "Brown Wool Sofa",
+  "block.furnituremod.red_wool_sofa": "Red Wool Sofa",
+  "block.furnituremod.orange_wool_sofa": "Orange Wool Sofa",
+  "block.furnituremod.yellow_wool_sofa": "Yellow Wool Sofa",
+  "block.furnituremod.lime_wool_sofa": "Lime Wool Sofa",
+  "block.furnituremod.green_wool_sofa": "Green Wool Sofa",
+  "block.furnituremod.cyan_wool_sofa": "Cyan Wool Sofa",
+  "block.furnituremod.light_blue_wool_sofa": "Light Blue Wool Sofa",
+  "block.furnituremod.blue_wool_sofa": "Blue Wool Sofa",
+  "block.furnituremod.purple_wool_sofa": "Purple Wool Sofa",
+  "block.furnituremod.magenta_wool_sofa": "Magenta Wool Sofa",
+  "block.furnituremod.pink_wool_sofa": "Pink Wool Sofa"
+
+}

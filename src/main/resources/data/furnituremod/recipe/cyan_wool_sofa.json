@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "P": "#minecraft:planks",
+    "S": "minecraft:cyan_wool"
+  },
+  "pattern": [
+    "S  ",
+    "SSS",
+    "P P"
+  ],
+  "result": {
+    "count": 2,
+    "id": "furnituremod:cyan_wool_sofa"
+  }
+}

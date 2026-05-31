@@ -1,0 +1,97 @@
+{
+  "variants": {
+    "type=single,facing=north": {
+      "model": "furnituremod:block/sofa/purple_wool_sofa"
+    },
+    "type=left,facing=north": {
+      "model": "furnituremod:block/sofa/purple_wool_sofa_left"
+    },
+    "type=middle,facing=north": {
+      "model": "furnituremod:block/sofa/purple_wool_sofa_middle"
+    },
+    "type=right,facing=north": {
+      "model": "furnituremod:block/sofa/purple_wool_sofa_right"
+    },
+    "type=cornerleft,facing=north": {
+      "model": "furnituremod:block/sofa/purple_wool_sofa_cornerleft"
+    },
+    "type=cornerright,facing=north": {
+      "model": "furnituremod:block/sofa/purple_wool_sofa_cornerright"
+    },
+
+    "type=single,facing=east": {
+      "model": "furnituremod:block/sofa/purple_wool_sofa",
+      "y": 90
+    },
+    "type=left,facing=east": {
+      "model": "furnituremod:block/sofa/purple_wool_sofa_left",
+      "y": 90
+    },
+    "type=middle,facing=east": {
+      "model": "furnituremod:block/sofa/purple_wool_sofa_middle",
+      "y": 90
+    },
+    "type=right,facing=east": {
+      "model": "furnituremod:block/sofa/purple_wool_sofa_right",
+      "y": 90
+    },
+    "type=cornerleft,facing=east": {
+      "model": "furnituremod:block/sofa/purple_wool_sofa_cornerleft",
+      "y": 90
+    },
+    "type=cornerright,facing=east": {
+      "model": "furnituremod:block/sofa/purple_wool_sofa_cornerright",
+      "y": 90
+    },
+
+    "type=single,facing=south": {
+      "model": "furnituremod:block/sofa/purple_wool_sofa",
+      "y": 180
+    },
+    "type=left,facing=south": {
+      "model": "furnituremod:block/sofa/purple_wool_sofa_left",
+      "y": 180
+    },
+    "type=middle,facing=south": {
+      "model": "furnituremod:block/sofa/purple_wool_sofa_middle",
+      "y": 180
+    },
+    "type=right,facing=south": {
+      "model": "furnituremod:block/sofa/purple_wool_sofa_right",
+      "y": 180
+    },
+    "type=cornerleft,facing=south": {
+      "model": "furnituremod:block/sofa/purple_wool_sofa_cornerleft",
+      "y": 180
+    },
+    "type=cornerright,facing=south": {
+      "model": "furnituremod:block/sofa/purple_wool_sofa_cornerright",
+      "y": 180
+    },
+
+    "type=single,facing=west": {
+      "model": "furnituremod:block/sofa/purple_wool_sofa",
+      "y": 270
+    },
+    "type=left,facing=west": {
+      "model": "furnituremod:block/sofa/purple_wool_sofa_left",
+      "y": 270
+    },
+    "type=middle,facing=west": {
+      "model": "furnituremod:block/sofa/purple_wool_sofa_middle",
+      "y": 270
+    },
+    "type=right,facing=west": {
+      "model": "furnituremod:block/sofa/purple_wool_sofa_right",
+      "y": 270
+    },
+    "type=cornerleft,facing=west": {
+      "model": "furnituremod:block/sofa/purple_wool_sofa_cornerleft",
+      "y": 270
+    },
+    "type=cornerright,facing=west": {
+      "model": "furnituremod:block/sofa/purple_wool_sofa_cornerright",
+      "y": 270
+    }
+  }
+}

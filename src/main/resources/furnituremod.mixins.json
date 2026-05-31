@@ -1,0 +1,14 @@
+{
+	"required": true,
+	"package": "net.mess.furnituremod.mixin",
+	"compatibilityLevel": "JAVA_25",
+	"mixins": [
+      "FurnitureMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	},
+	"overwrites": {
+		"requireAnnotations": true
+	}
+}

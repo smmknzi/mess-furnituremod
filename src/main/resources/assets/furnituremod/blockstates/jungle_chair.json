@@ -1,0 +1,11 @@
+{
+  "variants": {
+    "facing=north": { "model": "furnituremod:block/jungle_chair", "y": 180 },
+
+    "facing=east": { "model": "furnituremod:block/jungle_chair", "y": 270 },
+
+    "facing=south": { "model": "furnituremod:block/jungle_chair", "y": 0 },
+
+    "facing=west": { "model": "furnituremod:block/jungle_chair", "y": 90 }
+  }
+}
