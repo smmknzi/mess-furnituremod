@@ -1,15 +1,15 @@
 {
 	"schemaVersion": 1,
-	"id": "furnituremod",
+	"id": "mess-furnituremod",
 	"version": "${version}",
-	"name": "Furniture Mod",
+	"name": "Mess's Furniture Mod",
 	"description": "A Vanilla+ Mod that adds basic and simplistic furniture to Minecraft. With additional Mod Compatiability",
 	"authors": [
 		"Mess"
 	],
 	"contact": {
 		"homepage": "",
-		"sources": ""
+		"sources": "https://github.com/smmknzi/mess-furnituremod"
 	},
 	"license": "MIT-License",
 	"icon": "assets/furnituremod/icon.png",

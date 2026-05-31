@@ -37,8 +37,6 @@ dependencies {
     implementation("maven.modrinth:jade:T2MaJ7vE")
     implementation("maven.modrinth:mouse-tweaks:EBIKCzuP")
 
-    implementation("maven.modrinth:7vxePowz:PoGjikQA")//farmersdelight
-
 
 
 }
