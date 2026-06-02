@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:blue_dye",
+    [
+      "furnituremod:white_wool_sofa",
+      "furnituremod:light_gray_wool_sofa",
+      "furnituremod:gray_wool_sofa",
+      "furnituremod:black_wool_sofa",
+      "furnituremod:brown_wool_sofa",
+      "furnituremod:red_wool_sofa",
+      "furnituremod:orange_wool_sofa",
+      "furnituremod:yellow_wool_sofa",
+      "furnituremod:lime_wool_sofa",
+      "furnituremod:green_wool_sofa",
+      "furnituremod:cyan_wool_sofa",
+      "furnituremod:light_blue_wool_sofa",
+      "furnituremod:purple_wool_sofa",
+      "furnituremod:magenta_wool_sofa",
+      "furnituremod:pink_wool_sofa"
+    ]
+  ],
+  "result": {
+    "id": "furnituremod:blue_wool_sofa"
+  }
+}

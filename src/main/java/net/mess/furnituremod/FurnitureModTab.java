@@ -9,7 +9,7 @@ import net.minecraft.resources.Identifier;
 import net.minecraft.world.item.CreativeModeTab;
 import net.minecraft.world.item.ItemStack;
 
-public class FurnitureModeTab {
+public class FurnitureModTab {
     public static final CreativeModeTab FURNITURE_TAB = Registry.register(BuiltInRegistries.CREATIVE_MODE_TAB,
             Identifier.fromNamespaceAndPath(FurnitureMod.MOD_ID, "furniture"),
             FabricCreativeModeTab.builder().icon(() -> new ItemStack(ModBlocks.WHITE_WOOL_SOFA))

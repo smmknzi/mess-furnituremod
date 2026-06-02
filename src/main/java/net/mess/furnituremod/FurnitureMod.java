@@ -14,10 +14,10 @@ public class FurnitureMod implements ModInitializer {
 
     @Override
     public void onInitialize() {
-        ModItems.registerModItems();
+        //ModItems.registerModItems();
         ModBlocks.registerModBlocks();
         ModEntities.registerModEntities();
-        FurnitureModeTab.registerModCreativeModeTabs();
+        FurnitureModTab.registerModCreativeModeTabs();
 
     }
 
