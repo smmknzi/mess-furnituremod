@@ -1,5 +1,7 @@
 {
   "item.furnituremod.hammer": "Hammer",
+  "itemGroup.furnituremod": "Mess's Furniture",
+
   "creativemodetab.furnituremod.furniture_tab": "Mess's Furniture",
   "block.furnituremod.oak_stool": "Oak Stool",
   "block.furnituremod.oak_table": "Oak Table",
