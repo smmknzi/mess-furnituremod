@@ -1,8 +1,8 @@
 {
 	"schemaVersion": 1,
-	"id": "mess-furnituremod",
+	"id": "furnituremod",
 	"version": "${version}",
-	"name": "Mess's Furniture Mod",
+	"name": "Mess's Furniture",
 	"description": "A Vanilla+ Mod that adds basic and simplistic furniture to Minecraft.",
 	"authors": [
 		"Mess"
