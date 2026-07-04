@@ -11,7 +11,7 @@ import net.minecraft.world.item.ItemStack;
 
 public class FurnitureModTab {
     public static final CreativeModeTab FURNITURE_TAB = Registry.register(BuiltInRegistries.CREATIVE_MODE_TAB,
-            Identifier.fromNamespaceAndPath(FurnitureMod.MOD_ID, "furniture"),
+            Identifier.fromNamespaceAndPath(FurnitureMod.MOD_ID, "furnituremod"),
             FabricCreativeModeTab.builder().icon(() -> new ItemStack(ModBlocks.WHITE_WOOL_SOFA))
                     .title(Component.translatable("creativemodetab.furnituremod.furniture_tab"))
                     .displayItems((parameters, output) -> {
