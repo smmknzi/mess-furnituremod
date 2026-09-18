@@ -57,6 +57,8 @@ public class ModBlocks {
             StoolBlock::new, BlockBehaviour.Properties.ofFullCopy(Blocks.OAK_PLANKS).sound(SoundType.WOOD), true);
     public static final Block PALE_OAK_STOOL = register("pale_oak_stool",
             StoolBlock::new, BlockBehaviour.Properties.ofFullCopy(Blocks.OAK_PLANKS).sound(SoundType.WOOD), true);
+    public static final Block POPLAR_STOOL = register("poplar_stool",
+            StoolBlock::new, BlockBehaviour.Properties.ofFullCopy(Blocks.OAK_PLANKS).sound(SoundType.WOOD), true);
     public static final Block BAMBOO_STOOL = register("bamboo_stool",
             StoolBlock::new, BlockBehaviour.Properties.ofFullCopy(Blocks.BAMBOO_PLANKS).sound(SoundType.BAMBOO_WOOD), true);
     public static final Block CRIMSON_STOOL = register("crimson_stool",
@@ -83,6 +85,8 @@ public class ModBlocks {
             ChairBlock::new, BlockBehaviour.Properties.ofFullCopy(Blocks.OAK_PLANKS).sound(SoundType.WOOD), true);
     public static final Block PALE_OAK_CHAIR = register("pale_oak_chair",
             ChairBlock::new, BlockBehaviour.Properties.ofFullCopy(Blocks.OAK_PLANKS).sound(SoundType.WOOD), true);
+    public static final Block POPLAR_CHAIR = register("poplar_chair",
+            ChairBlock::new, BlockBehaviour.Properties.ofFullCopy(Blocks.OAK_PLANKS).sound(SoundType.WOOD), true);
     public static final Block BAMBOO_CHAIR = register("bamboo_chair",
             ChairBlock::new, BlockBehaviour.Properties.ofFullCopy(Blocks.BAMBOO_PLANKS).sound(SoundType.BAMBOO_WOOD), true);
     public static final Block CRIMSON_CHAIR = register("crimson_chair",
@@ -108,6 +112,8 @@ public class ModBlocks {
     public static final Block CHERRY_TABLE = register("cherry_table",
             TableBlock::new, BlockBehaviour.Properties.ofFullCopy(Blocks.OAK_PLANKS).sound(SoundType.WOOD), true);
     public static final Block PALE_OAK_TABLE = register("pale_oak_table",
+            TableBlock::new, BlockBehaviour.Properties.ofFullCopy(Blocks.OAK_PLANKS).sound(SoundType.WOOD), true);
+    public static final Block POPLAR_TABLE = register("poplar_table",
             TableBlock::new, BlockBehaviour.Properties.ofFullCopy(Blocks.OAK_PLANKS).sound(SoundType.WOOD), true);
     public static final Block BAMBOO_TABLE = register("bamboo_table",
             TableBlock::new, BlockBehaviour.Properties.ofFullCopy(Blocks.BAMBOO_PLANKS).sound(SoundType.BAMBOO_WOOD), true);

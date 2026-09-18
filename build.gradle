@@ -31,10 +31,10 @@ dependencies {
 
 	implementation "net.fabricmc.fabric-api:fabric-api:${project.fabric_api_version}"
 
-    implementation ("maven.modrinth:jei:9yldH58f")
-    implementation("maven.modrinth:modmenu:TLnEHUyx")
-    implementation("maven.modrinth:jade:qxwj9BOs")
-    implementation("maven.modrinth:mouse-tweaks:jOiTBIaB")
+    implementation ("maven.modrinth:jei:CayCdwTY")
+    implementation("maven.modrinth:modmenu:lcxkZSq6")
+    implementation("maven.modrinth:jade:lt43vWtF")
+    implementation("maven.modrinth:mouse-tweaks:LeMuMhLv")
 
 }
 

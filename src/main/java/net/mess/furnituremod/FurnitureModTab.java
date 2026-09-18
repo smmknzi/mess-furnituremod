@@ -42,6 +42,9 @@ public class FurnitureModTab {
                         output.accept(ModBlocks.PALE_OAK_STOOL);
                         output.accept(ModBlocks.PALE_OAK_CHAIR);
                         output.accept(ModBlocks.PALE_OAK_TABLE);
+                        output.accept(ModBlocks.POPLAR_STOOL);
+                        output.accept(ModBlocks.POPLAR_CHAIR);
+                        output.accept(ModBlocks.POPLAR_TABLE);
                         output.accept(ModBlocks.BAMBOO_STOOL);
                         output.accept(ModBlocks.BAMBOO_CHAIR);
                         output.accept(ModBlocks.BAMBOO_TABLE);

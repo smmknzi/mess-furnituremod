@@ -11,7 +11,6 @@ public class SitRenderer extends EntityRenderer<SitEntity, EntityRenderState> {
         super(context);
     }
 
-    @Override
     public boolean shouldRender(SitEntity entity, Frustum culler, double camX, double camY, double camZ) {
         return true;
     }

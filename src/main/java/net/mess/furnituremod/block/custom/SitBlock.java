@@ -1,6 +1,5 @@
 package net.mess.furnituremod.block.custom;
 
-import com.mojang.serialization.MapCodec;
 import net.mess.furnituremod.entity.ModEntities;
 import net.mess.furnituremod.entity.custom.SitEntity;
 import net.minecraft.core.BlockPos;
@@ -21,9 +20,9 @@ import org.jetbrains.annotations.Nullable;
 
 import java.util.List;
 
+
 public class SitBlock extends HorizontalDirectionalBlock {
 
-    public static final MapCodec<SitBlock> CODEC = simpleCodec(SitBlock::new);
 
     public SitBlock(Properties properties) {
         super(properties);
@@ -44,11 +43,6 @@ public class SitBlock extends HorizontalDirectionalBlock {
         }
 
         return InteractionResult.SUCCESS;
-    }
-
-    @Override
-    protected MapCodec<? extends HorizontalDirectionalBlock> codec() {
-        return CODEC;
     }
 
 
